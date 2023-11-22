@@ -1,0 +1,8 @@
+#Archivos temporales
+*~
+
+#Directorios ignorados
+.vscode/
+.gitignore
+.DS_Store
+
